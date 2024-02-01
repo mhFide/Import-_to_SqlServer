@@ -1,0 +1,15 @@
+E:\Brittel Sys\Proyectos\Brittel\ImportaExcell_IC\bin\Release\ImportaExcell_IC.exe.config
+E:\Brittel Sys\Proyectos\Brittel\ImportaExcell_IC\bin\Release\ImportaExcell_IC.exe
+E:\Brittel Sys\Proyectos\Brittel\ImportaExcell_IC\bin\Release\ImportaExcell_IC.pdb
+E:\Brittel Sys\Proyectos\Brittel\ImportaExcell_IC\bin\Release\Excel.dll
+E:\Brittel Sys\Proyectos\Brittel\ImportaExcell_IC\bin\Release\FuncionesSQL.dll
+E:\Brittel Sys\Proyectos\Brittel\ImportaExcell_IC\bin\Release\ICSharpCode.SharpZipLib.dll
+E:\Brittel Sys\Proyectos\Brittel\ImportaExcell_IC\bin\Release\Excel.pdb
+E:\Brittel Sys\Proyectos\Brittel\ImportaExcell_IC\bin\Release\FuncionesSQL.pdb
+E:\Brittel Sys\Proyectos\Brittel\ImportaExcell_IC\obj\Release\ImportaExcell_IC.CargaData.resources
+E:\Brittel Sys\Proyectos\Brittel\ImportaExcell_IC\obj\Release\ImportaExcell_IC.Properties.Resources.resources
+E:\Brittel Sys\Proyectos\Brittel\ImportaExcell_IC\obj\Release\ImportaExcell_IC.csproj.GenerateResource.cache
+E:\Brittel Sys\Proyectos\Brittel\ImportaExcell_IC\obj\Release\ImportaExcell_IC.csproj.CoreCompileInputs.cache
+E:\Brittel Sys\Proyectos\Brittel\ImportaExcell_IC\obj\Release\ImportaExcell_IC.csproj.CopyComplete
+E:\Brittel Sys\Proyectos\Brittel\ImportaExcell_IC\obj\Release\ImportaExcell_IC.exe
+E:\Brittel Sys\Proyectos\Brittel\ImportaExcell_IC\obj\Release\ImportaExcell_IC.pdb
